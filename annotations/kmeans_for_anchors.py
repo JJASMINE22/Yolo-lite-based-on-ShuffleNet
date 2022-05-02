@@ -1,3 +1,10 @@
+# -*- coding: UTF-8 -*-
+'''
+@Project ：Yolo-lite-based-on-ShuffleNet
+@File    ：kmeans_for_anchors.py
+@IDE     ：PyCharm
+@Author  ：XinYi Huang
+'''
 import cv2
 import glob
 import numpy as np

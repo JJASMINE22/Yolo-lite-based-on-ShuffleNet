@@ -1,11 +1,9 @@
-#!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 '''
-@Project ：labelme-voc 
+@Project ：Yolo-lite-based-on-ShuffleNet
 @File    ：get_annotation.py
 @IDE     ：PyCharm 
 @Author  ：XinYi Huang
-@Date    ：2021/5/10 10:54 
 '''
 
 import os

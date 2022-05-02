@@ -1,3 +1,10 @@
+# -*- coding: UTF-8 -*-
+'''
+@Project ：Yolo-lite-based-on-ShuffleNet
+@File    ：ious.py
+@IDE     ：PyCharm
+@Author  ：XinYi Huang
+'''
 import math
 import tensorflow as tf
 

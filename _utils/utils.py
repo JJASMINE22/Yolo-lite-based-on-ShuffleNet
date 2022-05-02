@@ -1,3 +1,10 @@
+# -*- coding: UTF-8 -*-
+'''
+@Project ：Yolo-lite-based-on-ShuffleNet
+@File    ：utils.py
+@IDE     ：PyCharm
+@Author  ：XinYi Huang
+'''
 import cv2
 import numpy as np
 from PIL import Image

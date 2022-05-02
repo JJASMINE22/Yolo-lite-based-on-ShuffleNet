@@ -1,3 +1,10 @@
+# -*- coding: UTF-8 -*-
+'''
+@Project ：Yolo-lite-based-on-ShuffleNet
+@File    ：yolo4.py
+@IDE     ：PyCharm
+@Author  ：XinYi Huang
+'''
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras.layers import (Input,

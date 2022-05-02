@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 '''
-@Project ：CNN_LSTM
-@File    ：train.py
+@Project ：Yolo-lite-based-on-ShuffleNet
+@File    ：generate.py
 @IDE     ：PyCharm 
 @Author  ：XinYi Huang
 '''

@@ -1,0 +1,79 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="BuildoutUnresolvedPartInspection" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="PyAbstractClassInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyAttributeOutsideInitInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyCallingNonCallableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyChainedComparisonsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyComparisonWithNoneInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyDefaultArgumentInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyDictCreationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyIncorrectDocstringInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyMethodMayBeStaticInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyMissingConstructorInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="keras-contrib" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E722" />
+          <option value="E305" />
+          <option value="E122" />
+          <option value="E741" />
+          <option value="E712" />
+          <option value="W605" />
+          <option value="E211" />
+          <option value="E701" />
+          <option value="E265" />
+          <option value="E302" />
+          <option value="E231" />
+          <option value="E225" />
+          <option value="E127" />
+          <option value="E711" />
+          <option value="E501" />
+          <option value="E252" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyProtectedMemberInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyRedeclarationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyRedundantParenthesesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyShadowingNamesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PySimplifyBooleanCheckInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PySingleQuotedDocstringInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyStatementEffectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnboundLocalVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="yolo.YOLO.classes_path" />
+          <option value="yolo.YOLO.anchors_path" />
+          <option value="yolo.YOLO.model_path" />
+          <option value="yolo.YOLO.letterbox_image" />
+          <option value="yolo.YOLO.score" />
+          <option value="model.ssd512VGG16.vgg16" />
+          <option value="yolo.YOLO.model_image_size" />
+          <option value="yolo.YOLO.max_boxes" />
+          <option value="yolo.YOLO.iou" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnusedLocalInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+  </profile>
+</component>

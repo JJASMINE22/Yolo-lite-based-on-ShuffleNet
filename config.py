@@ -1,3 +1,10 @@
+# -*- coding: UTF-8 -*-
+'''
+@Project ：Yolo-lite-based-on-ShuffleNet
+@File    ：config.py
+@IDE     ：PyCharm
+@Author  ：XinYi Huang
+'''
 from _utils.utils import get_classes, get_anchors
 
 

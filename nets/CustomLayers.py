@@ -1,8 +1,8 @@
 # -*- coding: UTF-8 -*-
 '''
-@Project ：CNN_LSTM
-@File    ：train.py
-@IDE     ：PyCharm 
+@Project ：Yolo-lite-based-on-ShuffleNet
+@File    ：CustomLayers.py
+@IDE     ：PyCharm
 @Author  ：XinYi Huang
 '''
 import tensorflow as tf
