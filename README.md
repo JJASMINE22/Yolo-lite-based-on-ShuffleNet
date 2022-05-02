@@ -31,13 +31,13 @@
 
 ## 单元结构  
 1. ShuffleUnit残差结构  
-![image](图片地址)  
+![image](https://github.com/JJASMINE22/Yolo-lite-based-on-ShuffleNet/blob/master/structure/grouped_resblock_add.png)  
 2. ShuffleUnit拼接结构  
-![image](图片地址)  
+![image](https://github.com/JJASMINE22/Yolo-lite-based-on-ShuffleNet/blob/master/structure/grouped_resblock_concat.png)  
 
 ## 网络结构
 YOLO based on ShuffleNet  
-![image](图片地址)  
+![image](https://github.com/JJASMINE22/Yolo-lite-based-on-ShuffleNet/blob/master/structure/yolo.png)  
 
 ## 数据下载    
 coco2017  
